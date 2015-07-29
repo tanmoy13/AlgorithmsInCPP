@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1374516098 source:f:\code\algorithm project\nqueue\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<map>
+	<vector>
+	<queue>
+	<stack>
+	<cstring>
+	<string>
+	<cctype>
+	<algorithm>
+	<bitset>
+	<set>
+

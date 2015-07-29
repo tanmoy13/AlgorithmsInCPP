@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1372865662 source:f:\code\algorithm project\segment tree\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

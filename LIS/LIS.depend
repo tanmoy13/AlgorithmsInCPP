@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1363880743 source:f:\code\algorithm project\lis\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<vector>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1375049412 source:f:\code\algorithm project\dfs\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<map>
+	<vector>
+	<queue>
+	<stack>
+	<cstring>
+	<string>
+	<cctype>
+	<algorithm>
+	<bitset>
+	<set>
+

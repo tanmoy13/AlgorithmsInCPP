@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1373609559 source:f:\code\algorithm project\kruska's mstl\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

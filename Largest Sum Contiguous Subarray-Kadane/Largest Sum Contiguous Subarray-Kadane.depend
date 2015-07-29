@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384010394 source:e:\code\algorithm project\largest sum contiguous subarray-kadane\main.cpp
+	<iostream>
+	<vector >
+

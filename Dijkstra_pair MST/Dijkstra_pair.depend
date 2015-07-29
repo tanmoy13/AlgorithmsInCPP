@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1371471150 source:f:\code\algorithm project\dijkstra_pair\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<map>
+	<vector>
+	<queue>
+	<stack>
+	<cstring>
+	<string>
+	<cctype>
+	<algorithm>
+	<bitset>
+	<set>
+	<utility>
+
+1371471150 
+
+1371442302 source:/home/sun/Desktop/Code/Algorithm/Algorithm Project/Dijkstra_pair MST/main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<map>
+	<vector>
+	<queue>
+	<stack>
+	<cstring>
+	<string>
+	<cctype>
+	<algorithm>
+	<bitset>
+	<set>
+	<utility>
+
