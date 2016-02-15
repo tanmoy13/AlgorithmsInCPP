@@ -42,6 +42,14 @@ int ArticulationPoint(int u, int p = -1)
             ArticulationPoint(v, u);
 
             low[u] = min(low[v], low[u]);
+
+            /*
+            if(low[v] > num[u]
+            {
+                cout << u << "-" << v << " is a bridge " << endl;
+            }
+
+            */
             if(low[v] >= num[u] && p!=-1)
             {
                 articp[u] = true;

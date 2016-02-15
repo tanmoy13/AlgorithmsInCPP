@@ -6,7 +6,7 @@
 #include <cmath>
 #include <queue>
 #include <string>
-#define Max 10000
+#define Max 100
 
 using namespace std;
 
@@ -29,7 +29,9 @@ struct node
         return w>p.w;
     }
 };
+
 int d[Max]={500},parent[Max]={-1};
+
 int dijkstra(int n)
 {
     priority_queue < node > q;
@@ -58,6 +60,7 @@ int dijkstra(int n)
 int main()
 {
     int M,N;
+
     while(cin>>M)
     {
         //cin>>N;
